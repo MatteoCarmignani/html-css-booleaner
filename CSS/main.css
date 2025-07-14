@@ -43,6 +43,28 @@ font-size: 12px;
     background-color: #b1e6f2;
 }
 /* regole footer*/
-#main-footer {
-
+.scritta-grigia {
+    color: gray;
 }
+/*immagini di bg*/
+
+#main-footer {
+    background-repeat: no-repeat;
+}
+
+#monitor {
+    height: 160px;
+    background-image: url(../img/monitor.jpg);
+    background-repeat: no-repeat;
+}
+#graph {
+    height: 160px;
+    background-image: url(../img/graph.jpg);
+    background-repeat: no-repeat;
+}
+.sopra-foto {
+    font-size: 20px;
+    color: white;
+}
+     
+      

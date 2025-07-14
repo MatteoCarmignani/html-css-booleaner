@@ -31,6 +31,17 @@ font-size: 12px;
 .sottolineatura {
     background-color: yellow;
 }
+.larghezza-colonna {
+    width:50%;
+}
+/* colore colonne blu e azzurre*/
+.colore-colonna-blu {
+    color: white;
+    background-color: #21a9e6;
+}
+.colore-colonna-azzurra {
+    background-color: #b1e6f2;
+}
 /* regole footer*/
 #main-footer {
 

@@ -1,12 +1,33 @@
-body {
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 12px;
-}
+
 
 /* regole header */ 
+#main-header {
+    height: 100px;
+    background-color: #4ea1ff;
+    background-size: 15%;
+    background-image: url(../img/pattern.png)    
+}
+#logo {
+    width: 15%;
+}
 
 
 /* regole main*/
-
+#main-principale {
+    
+}
+.blu {
+    color: #4ea1ff;
+}
+#titolo {
+    font-size: 50px;
+}
+#sottotitolo {
+    color: gray;
+    font-size: 18px;
+}
 
 /* regole footer*/
+#main-footer {
+
+}
